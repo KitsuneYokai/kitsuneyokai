@@ -26,7 +26,7 @@
 
 ###
 
-<img align="left" height="150" src="https://ftp.kitsu-team.dev/KY_512.gif"  />
+<img align="left" height="150" src="https://ftp.kitsu-team.dev/KY_512.gif" style="border-radius: 30px" />
 
 ###
 
