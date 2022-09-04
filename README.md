@@ -33,7 +33,3 @@
 </div>
 
 ###
-
-<img href="https://raw.githubusercontent.com/KitsuneYokai/KitsuneYokai/blob/output/snake.svg" alt="Snake animation" />
-
-###
