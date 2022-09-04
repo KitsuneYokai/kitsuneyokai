@@ -1,8 +1,8 @@
-<h2 align="left">Hey there 👋<br>welcome to my profile</h2>
+<h2 align="left">Hey there 👋
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">welcome to my profile, have a nice stay 🦊</p>
 
 ###
 
