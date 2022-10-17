@@ -1,8 +1,20 @@
-<h2 align="left">Hey there 👋
+<h2 align="middle">Hey there 👋
 
 ###
 
-<p align="left">welcome to my profile, have a nice stay 🦊</p>
+<p align="middle">welcome to my profile, have a nice stay 🦊</p>
+
+<div align="middle">
+  <a href="https://wakatime.com/@4a50d706-7ab0-4fb7-968f-ff8400944e59"><img src="https://wakatime.com/badge/user/4a50d706-7ab0-4fb7-968f-ff8400944e59.svg" alt="Total time coded since Apr 24 2022" /></a>
+</div>
+
+###
+
+<div align="middle">
+  <a href="https://discord.gg/R9t9YHx" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div>
 
 ###
 
@@ -24,23 +36,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="50" width="65" alt="nginx logo"  />
 </div>
 
-###
-
-<img align="left" height="150" src="https://ftp.kitsu-team.dev/KY_512.gif" style="border-radius: 30px" />
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/11136259176">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=11136259176&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+<img align="left" height="150" src="https://ftp.kitsu-team.dev/KY_512.gif" style="width: 350px; height:350px" />
 
 ###
 
 <div align="right">
-  <a href="https://discord.gg/R9t9YHx" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="https://open.spotify.com/user/11136259176">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=11136259176&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
