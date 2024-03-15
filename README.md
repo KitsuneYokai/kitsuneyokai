@@ -2,7 +2,7 @@
 
 ###
 
-<p align="middle">welcome to my profile, have a nice stay 🦊</p>
+<p align="middle">Whats poppin</p>
 
 <div align="middle">
   <a href="https://wakatime.com/@4a50d706-7ab0-4fb7-968f-ff8400944e59"><img src="https://wakatime.com/badge/user/4a50d706-7ab0-4fb7-968f-ff8400944e59.svg" alt="Total time coded since Apr 24 2022" /></a>
