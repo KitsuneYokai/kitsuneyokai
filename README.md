@@ -28,14 +28,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="50" width="65" alt="nginx logo"  />
 </div>
 
-
 ###
 
-<img align="left" height="150" src="https://ftp.kitsu-team.dev/KY_512.gif" style="width: 350px; height:350px" />
-
-###
-
-<div align="right">
+<div align="middle">
   <a href="https://open.spotify.com/user/11136259176">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=11136259176&unique=true" alt="Spotify recently played"  />
   </a>
